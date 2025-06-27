@@ -1,8 +1,7 @@
-# Alternate Reality Games (ARGs) - Research Documentation
+# Alternate Reality Games (ARGs) 
 
-This repository serves as a collection of documentation links and resources used for research on Alternate Reality Games (ARGs). by fsolido
+This repository serves as a collection of documentation links and resources used for research on Alternate Reality Games (ARGs).
 
----
 
 ## 1. **General Overviews & Introductions**
 - [Alternate reality game - Wikipedia](https://en.wikipedia.org/wiki/Alternate_reality_game)
@@ -15,6 +14,9 @@ This repository serves as a collection of documentation links and resources used
 - [Getting Started with ARGs | ARGNet](https://www.argn.com/getting_started_with_args/)
 - [History of alternate reality games - Wikipedia](https://en.wikipedia.org/wiki/History_of_alternate_reality_games)
 - [List of alternate reality games - Wikipedia](https://en.wikipedia.org/wiki/List_of_alternate_reality_games)
+- [Dimensions of Interactive Pervasive Game Design: Systematic Review - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10481219/)
+- [Practical Considerations for Values-Conscious Pervasive Games](https://dl.digra.org/index.php/dl/article/download/1363/1363)
+
 
 ## 2. **Academic & Research Articles**
 - [Active Learning Multiplayer Scenario Game-Based Learning: Alternate Reality Gaming](https://libguides.charleston.edu/immersivescenariogames/alternaterealitygaming)
@@ -29,6 +31,15 @@ This repository serves as a collection of documentation links and resources used
 - [The taxonomy study of players in Alternate Reality Games - uu .diva](https://uu.diva-portal.org/smash/get/diva2:1789119/FULLTEXT01.pdf)
 - [(PDF) Alternate Reality Games as Platforms for Practicing 21st ...](https://www.researchgate.net/publication/247161340_Alternate_Reality_Games_as_Platforms_for_Practicing_21st-Century_Literacies)
 - [Worlding through Play Alternate Reality Games, Large-Scale Learning, and The Source • - Strong Museum](https://www.museumofplay.org/app/uploads/2022/01/8-1-article-worlding-through-play.pdf)
+- [Alternate Reality Games For Behavioral and Social Science Research | ETC Press](https://press.etc.cmu.edu/books/alternate-reality-games-behavioral-and-social-science-research)
+- [Alternate Reality Games For Behavioral and Social ... - ETC Press](https://press.etc.cmu.edu/file/download/2430/0c104c05-1c5f-45c2-a604-0c98b2a9d623)
+- [Integrating Digital Technologies and Alternate Reality Games for ...](https://www.mdpi.com/2071-1050/16/21/9451)
+- [Creating Alternative Reality: A Case Study - PubMed](https://pubmed.ncbi.nlm.nih.gov/36065008/)
+- [Worlding through Play Alternate Reality Games, Large-Scale Learning, and The Source • - Strong Museum](https://www.museumofplay.org/app/uploads/2022/01/8-1-article-worlding-through-play.pdf)
+- [(PDF) Towards an ethics of alternate reality games - ResearchGate](https://www.researchgate.net/publication/320492534_Towards_an_ethics_of_alternate_reality_games)
+- [Davies | Towards an ethics of alternate reality games | Digital Studies / Le champ numérique](https://www.digitalstudies.org/article/id/7306/)
+- [The Malthusian Paradox: Performance in an Alternate Reality Game - Nottingham Repository](https://nottingham-repository.worktribe.com/file/994234/1/mp_final_preprint.pdf)
+- [Fakey: A Game Intervention to Improve News Literacy on ... - Cronfa](https://cronfa.swan.ac.uk/Record/cronfa60583/Download/60583__24692__1fd66061e395475c8e147d9bdf53f71b.pdf)
 
 ## 3. **Analysis, Criticism & Thought Pieces**
 - [How Alternate Reality Games Are Changing The Real World with Patrick Jagoda and Kristen Schilt - UChicago News](https://news.uchicago.edu/big-brains-podcast-how-alternate-reality-games-are-changing-real-world)
@@ -45,6 +56,8 @@ This repository serves as a collection of documentation links and resources used
 - [How to Make an ARG (Alternate Reality Game) - wikiHow](https://www.wikihow.com/Make-an-Arg)
 - [Make An Alternate Reality Game! | PPT - SlideShare](https://www.slideshare.net/slideshow/make-an-alternate-reality-game/448275)
 - [Top AR Design Principles: Everything You Need to Know - Yellowbrick](https://www.yellowbrick.co/blog/animation/top-ar-design-principles-everything-you-need-to-know)
+- [Designing for Influence: Persuasion vs Manipulation - Number Analytics](https://www.numberanalytics.com/blog/persuasion-vs-manipulation-in-design)
+- [Persuasion Versus Manipulation - Journal of Student Research](https://www.jsr.org/hs/index.php/path/article/download/4584/2158/36238)
 
 ## 5. **Classic ARG Case Studies & Major Games**
 
@@ -78,10 +91,13 @@ This repository serves as a collection of documentation links and resources used
 - [World Without Oil | ITVS](https://itvs.org/about/pressroom/press-release/world-without-oil--2/)
 - [World Without Oil Game Engine Diagram | The New Everyday - MediaCommons](https://mediacommons.org/tne/pieces/world-without-oil-game-engine-diagram)
 - [World Without Oil (2007) - Games for Cities](https://gamesforcities.com/database/world-without-oil/)
+  
 
 ### 5.5. Other Notable ARGs & Case Studies
 - [Alias ARG: How Fan Sleuths Rewrote Storytelling - The Scribblers Toolbox](https://www.scribblejerk.com/blog/alias-arg-how-fan-sleuths-rewrote-storytelling)
 - [Sombra ARG - Game Detectives Wiki](https://wiki.gamedetectives.net/index.php?title=Sombra_ARG)
+- [Creating Alternative Reality: A Case Study - PubMed](https://pubmed.ncbi.nlm.nih.gov/36065008/)
+- [The Malthusian Paradox: Performance in an Alternate Reality Game - Nottingham Repository](https://nottingham-repository.worktribe.com/file/994234/1/mp_final_preprint.pdf)
 
 ## 6. **Community, Forums & Networks**
 - [ARG's - interlopers.net forum](https://www.interlopers.net/forum/viewtopic.php?t=8247)
@@ -99,6 +115,8 @@ This repository serves as a collection of documentation links and resources used
 
 ## 8. **ARGs & Learning / Collaboration**
 - [ARGs Leverage Intelligence: Improving Performance Through Collaborative Play : Articles](https://www.learningguild.com/articles/134/args-leverage-intelligence-improving-performance-through-collaborative-play/)
+- [Integrating Digital Technologies and Alternate Reality Games for ...](https://www.mdpi.com/2071-1050/16/21/9451)
+- [Worlding through Play Alternate Reality Games, Large-Scale Learning, and The Source • - Strong Museum](https://www.museumofplay.org/app/uploads/2022/01/8-1-article-worlding-through-play.pdf)
 
 ## 9. **Transmedia, Game Design & Related Blogs**
 - [Game Design - The Best Blogs and Websites - Feedly](https://feedly.com/i/top/game-design-blogs)
@@ -109,4 +127,20 @@ This repository serves as a collection of documentation links and resources used
 - [What's Trending on Substack in 2025? - Michael Brito](https://www.britopian.com/trends/substack-trending-topics/)
 - [How to Use Substack: Lessons from What's Working for Creators - Buffer](https://buffer.com/resources/how-to-use-substack/)
 
----
+## 10. **ARGs, Misinformation, Propaganda & Civic Engagement**  
+- [Fakey: A Game Intervention to Improve News Literacy on ... - Cronfa](https://cronfa.swan.ac.uk/Record/cronfa60583/Download/60583__24692__1fd66061e395475c8e147d9bdf53f71b.pdf)
+- [Disinformation and propaganda: impact on the functioning of the rule of law and democratic processes in the EU and its Member States - European Parliament](https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653633/EXPO_STU(2021)653633_EN.pdf)
+- [Misinformation, Bias and Fact Checking: Mastering Media Literacy: Propaganda](https://researchguides.uoregon.edu/medialiteracy/propaganda)
+- [Propaganda techniques - Wikipedia](https://en.wikipedia.org/wiki/Propaganda_techniques)
+- [Tactics of Disinformation - CISA](https://www.cisa.gov/sites/default/files/publications/tactics-of-disinformation_508.pdf)
+- [Generative propaganda: Evidence of AI's impact from a state-backed disinformation campaign | PNAS Nexus | Oxford Academic](https://academic.oup.com/pnasnexus/article/4/4/pgaf083/8097936)
+- [Disagreement as a way to study misinformation and its effects](https://misinforeview.hks.harvard.edu/article/disagreement-as-a-way-to-study-misinformation-and-its-effects/)
+- [Key Concepts and Measures - Civic Engagement and Civic Infrastructure to Advance Health Equity - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK589793/)
+- [City Leader Guide on Civic Engagement: Designing Pathways for Participatory Problem-Solving](https://www.cityleadership.harvard.edu/wp-content/uploads/migrate/BHCLI_CivicEngagement_0000CG.pdf)
+- [Stop Raising Awareness Already - Stanford Social Innovation Review](https://ssir.org/articles/entry/stop_raising_awareness_already)
+- [Understanding political engagement | Bournemouth University](https://www.bournemouth.ac.uk/research/projects/understanding-political-engagement)
+
+## 11. **Ethics and Research Considerations**
+- [(PDF) Towards an ethics of alternate reality games - ResearchGate](https://www.researchgate.net/publication/320492534_Towards_an_ethics_of_alternate_reality_games)
+- [Davies | Towards an ethics of alternate reality games | Digital Studies / Le champ numérique](https://www.digitalstudies.org/article/id/7306/)
+- [What are ethical considerations in research? - Scribbr](https://www.scribbr.com/frequently-asked-questions/what-are-ethical-considerations-in-research/)
